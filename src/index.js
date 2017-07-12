@@ -5,12 +5,12 @@ export default class extends Component {
     super(props);
     this.state = {
       days: '00',
-      days_ref: 'days',
       hours: '00',
-      hours_ref: 'hours',
       minutes: '00',
-      minutes_ref: 'minutes',
       seconds: '00',
+      days_ref: 'days',
+      hours_ref: 'hours',
+      minutes_ref: 'minutes',
       seconds_ref: 'seconds'
     };
     this.currentDate = this.currentDate.bind(this);
