@@ -30,7 +30,7 @@
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/blairanderson/react-countdown-timer",
   "keywords": [
     "react-component"
   ]
